@@ -79,11 +79,13 @@ https://www.linkedin.com/in/al-amin-8332a227a/
     <tr>
         <th>Name</th>
         <th>E-mail</th>
+        <th>University</th>
         <th>Phone</th>
     </tr>
     <tr>
         <td>Alamin</td>
         <td>alamin11crt@gmail.com</td>
+        <td>Daffodil International</td>
         <td>+880 1680314218</td>
     </tr>
 </table>
