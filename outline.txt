@@ -1,0 +1,17 @@
+Mark Down:
+	What & why README.md?
+	How to make comment
+	Normal text & new line
+	Horizontal rule
+	Headings
+	Paragraph
+	Italic
+	Bold
+	Strikethrough
+	Inline code block
+	Multiple line code block
+	List
+	Link 
+	Image
+	Emoji
+	Table
